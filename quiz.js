@@ -4,7 +4,7 @@
 //  Paste your Google Apps Script Web App URL below
 // =====================================================================
 
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbz87vDEl30Cuk32ka5w8Chc0c0e3HBxdioM8c9tGCvV8-EWq36HFm9IqkOjatLhjEIDhg/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycby25OFappmDRGKD1YPn3ihYU39jpUemdaAVm7HNEwitHWl_9lwyYo1-th7WZ4A2JB7L8A/exec";
 
 // ── Config ─────────────────────────────────────────────────────────
 const TOTAL_Q        = 45;
